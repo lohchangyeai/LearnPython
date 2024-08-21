@@ -18,7 +18,7 @@ print ("************")
 #unpack a collection
 fruits = ["orange", "banana", "coconut"]
 x,y,z=fruits
-print("x=",x,"y=",y,"z=",z)
+print("The value of x=",x,"y=",y,"z=",z)
 print("x="+x,"y="+y+"z=",z)
 
 #to output number and string in the same line
